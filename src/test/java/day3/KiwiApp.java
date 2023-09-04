@@ -57,6 +57,7 @@ public class KiwiApp {
         for (int i=0; i<3; i++){
             action.press(PointOption.point(538,1689)).release().perform();
             Thread.sleep(1000);
+
         }
 
         // Trip type,one way olarak secilir
