@@ -68,5 +68,7 @@ public class KiwiApp {
         // search butonuna tiklanir
         // en  ucuz ve aktarmasiz filtrelemeleri yapilir
         // gelen bilet fiyati kaydedilir ve kullanicin telefonuna sms olarak gonderilir
+
+
     }
 }
